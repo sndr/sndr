@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Alexsander, and I am a full-stack developer. I work with various technologies and programming languages, both on the front-end and back-end. I love solving complex problems and creating efficient solutions. I am always learning and adapting to new trends and technologies in the world of web development. I am eager to work on challenging and innovative projects!
+Hello! My name is Alexsander, and I am a Backend developer. I work with various technologies and programming languages, both on the front-end and back-end. I am always learning and adapting to new trends and technologies in the world of web development. I also enjoy working on challenging and innovative projects!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexsander07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-benjamin-188029241/) 
