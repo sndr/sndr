@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Alexsander, and I am a Backend developer. I work with various technologies and programming languages, both on the front-end and back-end. I am always learning and adapting to new trends and technologies in the world of web development. I also enjoy working on challenging and innovative projects!
+I'm a student looking for a job as web developer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexsander07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-benjamin-188029241/) 
